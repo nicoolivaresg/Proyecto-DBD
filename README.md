@@ -1,7 +1,7 @@
 # Proyecto-DBD
 Proyecto Agenda Clinica DBD
 
-Version Rails:
-Version Ruby:
-Version mySQL:
+Version Rails: 2.*
+Version Ruby: 4.2.*
+Version mySQL: 
 
